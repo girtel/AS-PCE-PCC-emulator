@@ -9,7 +9,7 @@ This repository contains the first functional prototype of an active stateful PC
 
 A thorough description of the operation and case studies is described in the paper:
 
-Jose-Luis Izquierdo-Zaragoza, Jose-Juan Pedreno-Manresa, Pablo Pavon-Marino, Oscar Gonzalez de Dios and Victor Lopez, **“Dynamic Operation of an IP/MPLS-over-WDM Network Using an Active Stateful BGP/LS-Enabled Multilayer PCE,”** in *Proceedings of the 18th International Conference on Transparent Optical Networks (ICTON 2016)*, Trento (Italy), July 2016.
+Jose-Luis Izquierdo-Zaragoza, Jose-Juan Pedreno-Manresa, Pablo Pavon-Marino, Oscar Gonzalez de Dios and Victor Lopez, **[“Dynamic Operation of an IP/MPLS-over-WDM Network Using an Active Stateful BGP/LS-Enabled Multilayer PCE,”](https://doi.org/10.1109/ICTON.2016.7550702)** in *Proceedings of the 18th International Conference on Transparent Optical Networks (ICTON 2016)*, Trento (Italy), July 2016.
 
 ## Requirements
 The user should be familiar with Java, and the use and development of Net2Plan.

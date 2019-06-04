@@ -1,4 +1,4 @@
-# n2p-plugins-activePCE
+# Active Stateful PCE & PCC emulator Net2Plan Plugin
 Active Stateful Prototype PCE Plugin for Net2Plan
 
 This repository contains the first functional prototype of an active stateful PCE, and PCC emulator developed as a Net2Plan plugin. This plugins has been coded according with the standards defined in:
